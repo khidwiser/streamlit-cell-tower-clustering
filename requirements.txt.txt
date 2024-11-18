@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+folium
+streamlit_folium
+geopy
+scikit-learn
+scipy
+base64
