@@ -6,3 +6,6 @@ streamlit_folium
 geopy
 scikit-learn
 scipy
+build-essential
+pkg-config
+default-libmysqlclient-dev
